@@ -1,0 +1,124 @@
+C:\Users\cruiz\Source\repos\Inventory\bin\Inventory.dll.config
+C:\Users\cruiz\Source\repos\Inventory\bin\Inventory.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\Inventory.pdb
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\csc.exe
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\csc.exe.config
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\csc.rsp
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\csi.exe
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\csi.rsp
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\System.AppContext.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\vbc.exe
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\vbc.exe.config
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\vbc.rsp
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\VBCSCompiler.exe
+C:\Users\cruiz\Source\repos\Inventory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cruiz\Source\repos\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.Helpers.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.Mvc.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.Optimization.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.Razor.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.WebPages.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\WebGrease.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.Helpers.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.Mvc.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.Optimization.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.Razor.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.WebPages.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\cruiz\Source\repos\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cruiz\Source\repos\Inventory\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\es\System.Web.Razor.resources.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\es\System.Web.WebPages.resources.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\cruiz\Source\repos\Inventory\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\cruiz\Source\repos\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\cruiz\Source\repos\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\cruiz\Source\repos\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\cruiz\Source\repos\Inventory\obj\Debug\Inventory.dll
+C:\Users\cruiz\Source\repos\Inventory\obj\Debug\Inventory.pdb
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Inventory.dll.config
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Inventory.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Inventory.pdb
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\csc.exe
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\csc.exe.config
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\csc.rsp
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\csi.exe
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\csi.rsp
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\System.AppContext.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\vbc.exe
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\vbc.exe.config
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\vbc.rsp
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\VBCSCompiler.exe
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Antlr3.Runtime.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Newtonsoft.Json.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.Helpers.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.Mvc.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.Optimization.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.Razor.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.WebPages.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\WebGrease.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.Helpers.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.Mvc.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.Optimization.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.Razor.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.WebPages.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Newtonsoft.Json.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Antlr3.Runtime.pdb
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.Razor.resources.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\obj\Debug\Inventory.dll
+C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\obj\Debug\Inventory.pdb
