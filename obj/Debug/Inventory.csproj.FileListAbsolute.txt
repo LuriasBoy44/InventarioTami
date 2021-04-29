@@ -119,6 +119,8 @@ C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\
 C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.WebPages.resources.dll
 C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
 C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\obj\Debug\Inventory.dll
 C:\Users\ClaudiopolusRex\documents\visual studio 2015\Projects\Inventory\obj\Debug\Inventory.pdb
+C:\Users\ClaudiopolusRex\Documents\Visual Studio 2015\Projects\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\ClaudiopolusRex\Documents\Visual Studio 2015\Projects\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\ClaudiopolusRex\Documents\Visual Studio 2015\Projects\Inventory\obj\Debug\Inventory.csproj.CopyComplete
